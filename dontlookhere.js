@@ -1,4 +1,4 @@
-// Question 6 Passcode: ThisIsJSyay
+// Question 6 Passcode: ThisIsJSyay;
 console.log('Question 7 Passcode: SofiaWasHere');
 
 const btn = document.querySelector('button');
